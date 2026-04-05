@@ -97,3 +97,7 @@ The model is evaluated on unseen data using:
 * ROC Curve
 
 ---
+## Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub!
+
