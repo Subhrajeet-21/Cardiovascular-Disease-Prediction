@@ -26,9 +26,9 @@ It analyzes patient health data such as age, blood pressure, cholesterol levels,
 ---
 
 ## 📂 Dataset
+> ⚠️ Dataset is not included due to GitHub size limitations.
 
-📥 **Download Dataset:**
-[https://your-link-here](https://drive.google.com/file/d/13o78A2kxubBDay6uAG0910wpeC72bFrm/view?usp=sharing)
+📥 **Download Dataset:**[Dataset link](https://drive.google.com/file/d/13o78A2kxubBDay6uAG0910wpeC72bFrm/view?usp=sharing)
 
 After downloading, place it.
 
