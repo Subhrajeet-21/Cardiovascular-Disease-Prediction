@@ -1,7 +1,5 @@
-# Cardiovascular-Disease-Prediction
+# ❤️ Cardiovascular-Disease-Prediction
 Machine learning-based cardiovascular disease prediction using patient health data with 73% accuracy, built using Python and Scikit-learn.
-
-# ❤️ Cardiovascular Disease Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-green)
